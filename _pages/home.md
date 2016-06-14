@@ -7,9 +7,9 @@ header:
   overlay_color: "#000"
   overlay_image: splash.jpg
   caption: "Photo credit: [**Wallpaper Abyss**](https://wall.alphacoders.com/big.php?i=26102)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Kanun Andha Nane Hai Bhai"
 intro: 
-  - excerpt: 'We talk about law. Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Dedicated to bringing the best analysis of current news and how it relates to the Law in India' 
 feature_row:
   - image_path: law.jpg
     alt: "placeholder image 1"
@@ -29,5 +29,14 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
-
+<!-- {% include feature_row %} -->
+<div class="archive">
+  {% unless page.header.overlay_color or page.header.overlay_image %}
+  <h1 class="page__title">{{ page.title }}</h1>
+        {% endunless %}
+  <div class="grid__wrapper">
+    {% for post in site.posts %}
+      {% include archive-single.html type="grid" %}
+    {% endfor %}
+  </div>
+</div>
