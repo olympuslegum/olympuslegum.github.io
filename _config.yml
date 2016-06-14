@@ -18,14 +18,14 @@ teaser                   : law.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "facebook", "google-plus", custom"
+  provider               : "facebook"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid                : 921789744610842
+    num_posts            : 5
+    colorscheme          : "light" 
 
 # SEO Related
 google_site_verification :
@@ -38,7 +38,7 @@ twitter:
   username               :
 facebook:
   username               :
-  app_id                 :
+  app_id                 : 
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles

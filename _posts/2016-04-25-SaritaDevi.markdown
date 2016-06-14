@@ -1,7 +1,8 @@
 ---
 layout: single
 title:  "Curious Case of Sarita Devi"
-comments: false
+comments: true
+share: true
 date:   2016-04-25 18:05:18 +0100
 author_profile: true
 author: Pranav Pathak
