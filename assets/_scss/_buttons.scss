@@ -122,7 +122,8 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
-  (linkedin, $linkedin-color);
+  (linkedin, $linkedin-color),
+  (whatsapp, $whatsapp-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
@@ -152,3 +153,10 @@
     font-size: $type-size-7;
   }
 }
+
+// .btn--whatsapp {
+//   background-color: #43d854;
+//   &:hover {
+//     background-color: #b13c2e;
+//   }
+// }
