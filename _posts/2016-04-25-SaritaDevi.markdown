@@ -6,9 +6,9 @@ share: true
 date:   2016-04-25 18:05:18 +0100
 author_profile: true
 author: Pranav Pathak
+tags: Sports 
 header:
-  teaser: /posts/sarita/1.jpg
-  image: /posts/sarita/1.jpg
+  teaser: posts/sarita/1.jpg
 ---
 
 On October 1, 2015 Laishram Sarita Devi, 5 time Asian championship gold medalist and 3 times world championship medalist, completed one year of suspension imposed upon her by International Amateur Boxing Association (AIBA) for insubordination. 

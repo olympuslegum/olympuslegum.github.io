@@ -83,8 +83,8 @@
   {% endif %}
 {% endif %}
 
-{% if page.header.image %}
-  <meta property="og:image" content="{% if page.header.image contains "http" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% if page.header.teaser %}
+  <meta property="og:image" content="{% if page.header.teaser contains "http" %}{{ page.header.teaser }}{% else %}{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% endif %}
 
 {% if page.date %}

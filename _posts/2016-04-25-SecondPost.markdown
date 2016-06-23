@@ -5,6 +5,7 @@ comments: true
 share: true
 date:   2016-04-25 18:05:18 +0100
 author_profile: true
+tags: BCCI
 author: Pranav Pathak
 ---
 <b>Zee Telefilms Ltd.</b> was delivered by constitutional bench. Zee telefilms had bid for the telecast rights of cricket tournaments which were cancelled by the BCCI .then Zee Telefilms filed a petition under article 32 against BCCI. The majority ruled that BCCI was not an instrumentality of the state. But the majority applying Pradeep Kumar Biswas qualified that:
