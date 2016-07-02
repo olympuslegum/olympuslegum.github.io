@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Wallpaper Abyss**](https://wall.alphacoders.com/big.php?i=26102)"
 excerpt: "Digital Legal Coverage Worldwide"
 intro: 
-  - excerpt: 'Dedicated to bringing the best analysis of current news and how it relates to the Law in India and the world' 
+  - excerpt: 'Dedicated to bring best analysis of legal issues arising in sports, labour and antitrust worldwide' 
 feature_row:
   - image_path: law.jpg
     alt: "placeholder image 1"
