@@ -11,7 +11,7 @@ title                    : "Olympus Legum"
 title_separator          : "-"
 name                     : "OlympusLegum"
 description              : "A Website that talks about law."
-url                      : "https://olympuslegum.github.io"
+url                      : #"https://olympuslegum.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : law.jpg
@@ -180,10 +180,10 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-categories:
+category_archive:
   type: jekyll-archives
   path: /categories/
-tags:
+tag_archive:
   type: jekyll-archives
   path: /tags/
 jekyll-archives:
