@@ -7,9 +7,9 @@ header:
   overlay_color: "#000"
   overlay_image: splash.jpg
   caption: "Photo credit: [**Wallpaper Abyss**](https://wall.alphacoders.com/big.php?i=26102)"
-excerpt: "Kanun Andha Nane Hai Bhai"
+excerpt: "Digital Legal Coverage Worldwide"
 intro: 
-  - excerpt: 'Dedicated to bringing the best analysis of current news and how it relates to the Law in India' 
+  - excerpt: 'Dedicated to bringing the best analysis of current news and how it relates to the Law in India and the world' 
 feature_row:
   - image_path: law.jpg
     alt: "placeholder image 1"
