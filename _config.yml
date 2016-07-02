@@ -11,7 +11,7 @@ title                    : "Olympus Legum"
 title_separator          : "-"
 name                     : "OlympusLegum"
 description              : "A Website that talks about law."
-url                      : #"https://olympuslegum.github.io"
+url                      : "https://olympuslegum.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : law.jpg
@@ -159,7 +159,6 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
