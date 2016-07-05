@@ -3,7 +3,7 @@ layout: single
 title:  "NBA announces the various Caps for the 2016-17 season"
 comments: true
 share: true
-date:   2016-06-02 14:05:18 +0430
+date:   2016-07-02 14:05:18 +0430
 author_profile: true
 author: Pranav Pathak
 tags: Sports 

@@ -3,7 +3,7 @@ layout: single
 title:  "NBA Free agency: The new wild-wild west"
 comments: true
 share: true
-date:   2016-06-01 14:05:18 +0430
+date:   2016-07-01 14:05:18 +0430
 author_profile: true
 author: Pranav Pathak
 tags: Sports 
