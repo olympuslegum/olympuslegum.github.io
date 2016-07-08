@@ -11,7 +11,7 @@ header:
   teaser: posts/nbaFreeAgency/1.jpg
 ---
 
-After Cleveland won the NBA finals (2015-16) the speculations was about the free agencies/agents where the franchisees would be ready to offer big money due to excessive salary cap, came true. 
+After Cleveland won the NBA finals (2015-16) the speculations were about the free agencies/agents where the franchisees would be ready to offer big money due to excessive salary cap, came true. 
 While the players like Kevin Durrant, Mike Conelly and Al Horford are expected to get a max contract. There are other players like Kent Bazemoore, Hassan Whiteside (already signed with the Heat), Timothy Mozgov (Signed with the Lakers for $64 million), Chandler Parsons (Signed with the Grizzlies) and Dwight Howard amongst others who would be benefiting with the extended cap size. 
 
 There are some undrafted players such as Jeremy Lin who have also benefited for their hard work by signing a deal with the Brooklyn nets for $36 million for a span of three years. So, is the NBA’s wild-wild west theory criticized during the 90’s with Kevin Garnett being offered a major chunk of the salary and the heavily criticized contracts of Alonzo Mourning and Shaquille O Neal ($100 million worth of contracts) getting a <b>legitimized</b> nod of the market? 
