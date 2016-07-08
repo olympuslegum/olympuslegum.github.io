@@ -4,7 +4,7 @@ title:  "Raise in the minimum wage by the Central Government does not excite tra
 "
 comments: true
 share: true
-date:   2016-07-05 14:05:18 +0430
+date:   2016-07-08 14:05:18 +0430
 author_profile: true
 author: Deepak Sati
 tags: Labour 
