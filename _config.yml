@@ -35,11 +35,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :  "Olympuslegum"
 facebook:
-  username               :
+  username               : "olympuslegum.com1" 
   app_id                 : 921789744610842
   publisher              : 
+email                    : "olympuslegum@gmail.com"  
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -50,9 +51,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-80536736-1"
 
 # Google AdSense
 google_ad_client         :

@@ -6,16 +6,16 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
-    <!-- {% if author.avatar contains "http" %}
+  <!-- <div class="author__avatar">
+    {% if author.avatar contains "http" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %} -->
-  </div>
+    {% endif %}
+  </div> -->
 
-  <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+  <div>
+    <h3 class="author__name"></i>  {{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
