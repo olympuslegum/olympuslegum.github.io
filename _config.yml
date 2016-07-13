@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+# chut
 # Site Settings
 locale                   : "en-US"
 title                    : "Olympus Legum"
@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "OlympusLegum"
 description              : "A Website that talks about law."
 url                      : "http://www.olympuslegum.com"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : law.jpg
 # breadcrumbs            : false # true, false (default)
