@@ -6,7 +6,7 @@ share: true
 date:   2016-07-19 14:05:18 +0530
 author_profile: true
 author: Pranav Pathak
-tags: Sports 
+tags: Antitrust 
 header:
   teaser: posts/EUantitrust/1.jpg
 ---
