@@ -26,7 +26,7 @@ Also to add, in the month of November 2014 the newly appointed commissioner of t
 The Legislations under scrutiny are the Professional Amateur Sports Protection Act (PSPA), 1992 which criminalizes sports betting making it a federal criminal felony. The Interstate Wire Act, 1961, that makes transmission of sports wagering over the phone deemed a state crime and the Unlawful Internet Gambling Enforcement Act (UIGEA), 2006 which makes the transactions related to Online Gambling (Online Poker) an offence unless sanctioned by the state.
 </blockquote>
 
-The state of Nevada happens to be the only state in the US to have authorized full single-sport betting and there are only three states Oregon, Delaware and Montana offering limited sports betting.
+The state of Nevada happens to be the only state in the US to have authorized full single-sport betting. Other then Nevada, there are only three states Oregon, Delaware and Montana offering limited sports betting and other forms of gambling.
 
 <figure class="half">
 <a href="/images/posts/Fantasylegal/2.jpg"><img src="/images/posts/Fantasylegal/2.jpg"></a>
