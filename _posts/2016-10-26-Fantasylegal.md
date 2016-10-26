@@ -3,19 +3,19 @@ layout: single
 title:  "Capitol hill to legalize Sports betting as ‘Obsolete’ legislations under US Congressional review."
 comments: true
 share: true
-date:   2016-10-26 06:45:18 +0530
+date:   2016-10-26 19:40:18 +0530
 author_profile: true
 author: Pranav Pathak
 tags: Sportslaw Gambling DFS Fanduel Draftkinds USCongress
 header:
- teaser: posts/Fantasycongress/1.jpg
+ teaser: posts/Fantasylegal/1.jpg
 ---
 
 In the midst of gambling legalization and the tug-of-war between the states in the US. The US Congressional Committee is vowing to review the three major anti gambling acts with the aim of drafting a new legislation in order to pave the way for Daily Fantasy Sports (DFS) and some other forms of Gambling.  
 
 <figure class="half">
-<a href="/images/posts/Fantasycongress/1.jpg"><img src="/images/posts/Fantasycongress/1.jpg"></a>
-<figcaption>Source: sportsentertainmentattorney.com </figcaption>
+<a href="/images/posts/Fantasylegal/1.jpg"><img src="/images/posts/Fantasylegal/1.jpg"></a>
+<figcaption>Source: betminded.com </figcaption>
 </figure>
 
 Earlier this year in the month of August, New York became the 8th state in the US to give a stamp of approval in the form of online gambling providing it a center stage presence recognizing it as a ‘Game of Skill’ rather then a ‘Game of Chance’.
@@ -29,8 +29,8 @@ The Legislations under scrutiny are the Professional Amateur Sports Protection A
 The state of Nevada happens to be the only state in the US to have authorized full single-sport betting and there are only three states, which are Oregon, Delaware and Montana offering limited sports betting.
 
 <figure class="half">
-<a href="/images/posts/Fantasycongress/2.jpg"><img src="/images/posts/Fantasycongress/2.jpg"></a>
-<figcaption>Source: forbes.com</figcaption>
+<a href="/images/posts/Fantasylegal/2.jpg"><img src="/images/posts/Fantasylegal/2.jpg"></a>
+<figcaption>Source: ecommercetimes.com </figcaption>
 </figure>
 
 The US Representative from the state of New Jersey, Democrat Frank Pallone (House of Energy and Commerce Committee) brought the big three legislations under review further told the ESPN that the Legislations under review are archaic and overreaching with the requirement to update them or at-least harmonizing the three acts by bringing in a new legislation. 
@@ -45,6 +45,7 @@ Looking at the Economics the states have over the period of time have argued tha
 
 There are various concerns raised by the Big four leagues and the NCAA leaving out the National Basketball Association (NBA), predominantly in the case of National Hockey League (NHL) which has just awarded a franchise expansion to Las Vegas and in the NFL, the Oakland Raiders waiting for approval from the other franchise owner for relocation to Las Vegas. The leagues have argued that town is literally bugged with betting and can actually affect the conduct of the teams. 
 
-As many states are falling brick by brick legalizing fantasy sports and with the lobbying efforts of the Gambling/Sports betting beneficiary enterprises in the Capitol Hill it will be pertinent to analyze the up side and the down side of a federal legislation decriminalizing something criminalized for the past 24 years.
+As many states are falling brick by brick legalizing fantasy sports and with the lobbying efforts of the Gambling/Sports betting beneficiary enterprises in the Capitol Hill it will be pertinent to analyze the up side and the down side of a federal legislation decriminalizing something criminalized for the past 24 years
 
-**_(The writer is a final year student at Campus Law centre, Faculty of Law, Delhi University and can be reached at pranav.prudent@gmail.com)_**
+
+**_(The writer is a final year student at Campus Law Centre, Faculty of Law, Delhi University and can be reached at pranav.prudent@gmail.com)_**
