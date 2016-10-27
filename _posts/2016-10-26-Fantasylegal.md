@@ -11,7 +11,7 @@ header:
  teaser: posts/Fantasylegal/1.jpg
 ---
 
-In the midst of gambling legalization and the tug-of-war between the states in the US. The US Congressional Committee is vowing to review the three major anti gambling acts with the aim of drafting a new legislation in order to pave the way for Daily Fantasy Sports (DFS) and some other forms of Gambling.  
+In the midst of gambling legalization and the tug-of-war between the states in the US, the Congressional Committee is vowing to review the three major anti gambling acts with the aim of drafting a new legislation in order to pave the way for Daily Fantasy Sports (DFS) and some other forms of Gambling.  
 
 <figure class="half">
 <a href="/images/posts/Fantasylegal/1.jpg"><img src="/images/posts/Fantasylegal/1.jpg"></a>
