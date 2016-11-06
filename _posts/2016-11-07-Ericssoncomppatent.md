@@ -3,12 +3,12 @@ layout: single
 title:  "An inquiry into the applicability of alternative dispute mechanism into competition disputes"
 comments: true
 share: true
-date:   2016-11-07 01:00:18 +0530
+date:   2016-11-07 02:00:18 +0530
 author_profile: true
 author: Faraz Anees
 tags: Antitrust Patents Arbitration DelhiHighcourt Ericsson iball CCI
 header:
- teaser: posts/Ericssoncomppatent/1.jpg
+ teaser: posts/Ericssoncomppatents/1.jpg
 ---
 
 Delhi High Court’s December, 2015 order in case of <b>Telefonaktiebolaget LM Ericsson v. Competition Commission of India</b>, instead of resolving disputes has further convoluted the jurisprudence of competition law. The Court held that, averments made by the complainant after out of court settlement between the parties do not survive. Therefore, there remains nothing for the DG, CCI to investigate.
