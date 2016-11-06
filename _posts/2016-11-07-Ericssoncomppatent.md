@@ -3,7 +3,7 @@ layout: single
 title:  "An inquiry into the applicability of alternative dispute mechanism into competition disputes"
 comments: true
 share: true
-date:   2016-11-07 02:00:18 +0530
+date:   2016-11-06 02:00:18 +0530
 author_profile: true
 author: Faraz Anees
 tags: Antitrust Patents Arbitration DelhiHighcourt Ericsson iball CCI
@@ -33,11 +33,11 @@ Like many other cases in the past, this one also ended up in Delhi High Court. E
 After this something beyond ordinary routine happened. Court instead of going into the merits of issue held that out of court settlement between the parties takes the matter out of the ambit of CCI. Though CCI can take suo moto action but settlement in present case is akin to withdrawal of complaint.
 
 On the issue of conflict of jurisdiction between CCI and Patent Board, raised by Ericcson. There is a recent judgment of single judge of Delhi High Court, delivered in march, 2016, in the case of Telefonaktiebolaget LM Ericsson v. Competition Commission of India.It was held that there is no irreconcilable conflict between the Competition Act and the Patent Act as both have their respective field to work on.
- 
+
 Another issue which comes to mind is that whether matter pertaining to Competition Act can be settled out of court using any ADR mechanism.
 
 Answer to the above mentioned problem lies in the intention of legislature behind the formation of Competition Act, 2002. Preamble of the Act seeks to achieve sustenance of competition in the market with the prime objective of protection of consumer’s interest. This essentially means that Competition Act is formulated as a matter of public policy. It is important to note that the settlement arrived between Ericsson and iBall was kept confidential. To make things more comprehensible we will look into the issue of out of court settlement from the view of Arbitration and Conciliation Act, 1996.
- 
+
 <blockquote>
 Section 2(3), 34(2) b and 48(2) of the Arbitration Act deny the application of ADR method to the dispute which is not capable of settlement by arbitration under the law or if the award is in conflict with the public policy in India. Though these sections provide downright answer to the problem but it would be oversimplification of the complex issue.
 </blockquote>
@@ -47,14 +47,14 @@ Foreign jurisprudence on the above mentioned issue points towards the opposite d
 
 As a result, now application of arbitration in competition dispute is an orderly practice in American and European jurisdiction.
 
-Indian jurisprudence on this issue is not as developed as that on the western countries but it is not without any guidance. In  the case of<b>Booz Allen and Hamilton Inc. v.  SBI Home Finance Limited(2011)</b>, Supreme Court held that all disputes relating to rights in personam can be resolved through arbitration (right in personam is an interest protected solely against specific individuals); and all disputes relating to rights in rem (right exercisable against the world at large) are required to be adjudicated by courts and public tribunals only. 
+Indian jurisprudence on this issue is not as developed as that on the western countries but it is not without any guidance. In  the case of<b>Booz Allen and Hamilton Inc. v.  SBI Home Finance Limited(2011)</b>, Supreme Court held that all disputes relating to rights in personam can be resolved through arbitration (right in personam is an interest protected solely against specific individuals); and all disputes relating to rights in rem (right exercisable against the world at large) are required to be adjudicated by courts and public tribunals only.
 
 <figure class="half">
 <a href="/images/posts/Ericssoncomppatents/2.jpg"><img src="/images/posts/Ericssoncomppatents/2.jpg"></a>
 <figcaption>source: wikicommons</figcaption>
 </figure>
 
-Now taking a cue from Allen Booz case, it can be said that though major part of the Competition Act gives rise to right in rem in the form of prohibition of monopolistic tendencies and protection of consumer interest, there are certain rights in rem that carry right in personam in themselves. For instance, Section 53N and 53 under which an aggrieved party affected by anti-competitive conduct can approach to the Competition Appellate tribunal (COMPAT) and claim compensation for the loss suffered by them due to such behaviour. Compensation can also be claimed for losses suffered due to the failure of the other party to comply with the orders of CCI/COMPAT. 
+Now taking a cue from Allen Booz case, it can be said that though major part of the Competition Act gives rise to right in rem in the form of prohibition of monopolistic tendencies and protection of consumer interest, there are certain rights in rem that carry right in personam in themselves. For instance, Section 53N and 53 under which an aggrieved party affected by anti-competitive conduct can approach to the Competition Appellate tribunal (COMPAT) and claim compensation for the loss suffered by them due to such behaviour. Compensation can also be claimed for losses suffered due to the failure of the other party to comply with the orders of CCI/COMPAT.
 
 On the basis of above mentioned argument it can be said that application of out of court settlement and arbitration should only be restricted to damages claimed specifically by the aggrieved parties. Settlement should not be allowed when over all liability of the party under competition law is in question. The anti-competitive conduct affects economy and each and every player in the particular industry. They also carry penal consequences. Therefore it should be sole responsibility of CCI to prohibit such conduct as part of public policy.
 
