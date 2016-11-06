@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Capitol hill to legalize Sports betting as ‘Obsolete’ legislations under US Congressional review."
+title:  "Capitol hill to legalize Sports betting as ‘Obsolete’ legislations under US Congressional review"
 comments: true
 share: true
 date:   2016-10-26 20:00:18 +0530

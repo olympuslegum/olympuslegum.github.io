@@ -11,8 +11,8 @@ title                    : "Olympus Legum"
 title_separator          : "-"
 name                     : "OlympusLegum"
 description              : "A Website that talks about law."
-url                      : #"http://www.olympuslegum.com"
-baseurl                  :  # the subpath of your site, e.g. "/blog"
+url                      : "http://www.olympuslegum.com"
+baseurl                  :   # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : law.jpg
 # breadcrumbs            : false # true, false (default)
