@@ -8,12 +8,12 @@ author_profile: true
 author: Faraz Anees
 tags: Ericsson Iball Patents Competition/Antitrust Arbitration CCI
 header:
- teaser: posts/Ericssoncomppatents/1.jpg
+ teaser: posts/Ericssonpatentcompetition/1.jpg
 ---
 Delhi High Court’s December, 2015 order in the iBall case <b>Telefonaktiebolaget LM Ericsson v. Competition Commission of India(W.P.(C) 5604/2015 & CMs No.10097/2015 (for stay), 11248/2015 (for consolidation),16574/2015 (of R-2 for dismissal of petition) & 16577/2015 (of R-2 for vacation of stay)</b>, instead of resolving disputes, has further convoluted the jurisprudence of competition law. The Court held that averments made by the complainant after out of court settlement between the parties do not survive. Therefore, there remains nothing for the DG, CCI to investigate.
 
 <figure class="half">
-<a href="/images/posts/Ericssoncomppatents/1.jpg"><img src="/images/posts/Ericssoncomppatents/1.jpg"></a>
+<a href="/images/posts/Ericssonpatentcompetition/1.jpg"><img src="/images/posts/Ericssonpatentcompetition/1.jpg"></a>
 <figcaption>Source: eweek.com </figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ After this something beyond ordinary routine happened. Court instead of going in
 Parties takes the matter out of the ambit of CCI. Though CCI can take suo moto action but settlement in present case is akin to withdrawal of complaint.
 
 <figure class="half">
-<a href="/images/posts/Ericssoncomppatents/2.jpg"><img src="/images/posts/Ericssoncomppatents/2.jpg"></a>
+<a href="/images/posts/Ericssonpatentcompetition/2.jpg"><img src="/images/posts/Ericssonpatentcompetition/2.jpg"></a>
 <figcaption>Source: wikipedia </figcaption>
 </figure>
 
