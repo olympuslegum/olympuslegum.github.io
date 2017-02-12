@@ -22,11 +22,6 @@ American philosopher Jan Boxill in her book 1 argues that Sport serves a moral f
 
 Advocate Suhrith Parthasarathy writing in The Hindu 2 argued that“in India where cricket plays a pervasive role, the sport cricket would have to necessarily be seen as a primary cultural good, borrowing from John Rawls he further says, which is critical to the fulfilment of a person’s conception of a good life. In that sense, then access to cricket has to be considered as an end in and of itself, and as not in any manner sub‑servient to some other veiled purpose, especially entertainment or business”.
 
-<figure class="half">
-<a href="/images/posts/Seminarsportslaw/1.jpg"><img src="/images/posts/Seminarsportslaw/1.jpg"></a>
-<figcaption>Source: iPleaders Blog </figcaption>
-</figure>
-
 <b>Relationship between Sport and Politics</b>
 
 Within both the national and internationally community, the relationship between sport and formal politics is complex. It is often argued that in terms of cultural values sport is apolitical in the sense of being neutral and value‑free. But is sport really separate from formal politics? 
