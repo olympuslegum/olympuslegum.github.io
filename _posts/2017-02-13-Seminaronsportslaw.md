@@ -147,7 +147,7 @@ The same has been addressed in Justice Mudgals Report and also it argues a Sport
 
 So we can finally conclude that, there is a legitimate case however arguable for legalizing Sports betting in the country.
 
-Sources: -
+Sources: 
 Law and Sports in India by Justice Mukul Mudgal,
 FICCI Blog,
 Contract Law by Avtar Singh.
