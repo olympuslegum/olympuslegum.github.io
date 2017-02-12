@@ -73,9 +73,9 @@ The appeal raised complex scientific, legal and ethical questions. In women’s 
 BCCI CASE‑Supreme Court of India through a judgement delivered on January 22, 2015 brought the BCCI under the rigour of public law by making it amenable to the writ jurisdiction of Constitution of India under Article 226.Now BCCI as the regulator of cricket as sport in India is duty bound to behave in a fair, transparent and reasonable manner.
 
 Sources:
-1. Sports Ethics: An Anthology (2002)
-2. Finding a boundary, August 13, 2016, Suhrith Parthasarathy
-3. The paper can be accessed at http://scholarship.law.marquette.edu/sportslaw/vol11/iss2/7/
+1. Sports Ethics: An Anthology (2002),
+2. Finding a boundary, August 13, 2016, Suhrith Parthasarathy,
+3. The paper can be accessed at http://scholarship.law.marquette.edu/sportslaw/vol11/iss2/7/,
 4. Kenneth L Shropshire, Introduction: Sports Law?, 35 Am.Bus.L.J.181,182,(1998)
 
 
@@ -148,9 +148,9 @@ The same has been addressed in Justice Mudgals Report and also it argues a Sport
 So we can finally conclude that, there is a legitimate case however arguable for legalizing Sports betting in the country.
 
 Sources: -
-Law and Sports in India by Justice Mukul Mudgal
-FICCI Blog
-Contract Law by Avtar Singh
+Law and Sports in India by Justice Mukul Mudgal,
+FICCI Blog,
+Contract Law by Avtar Singh.
 
     
 
