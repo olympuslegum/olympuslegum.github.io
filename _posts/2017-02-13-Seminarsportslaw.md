@@ -8,7 +8,7 @@ author_profile: false
 author: Pranav Pathak, Deepak Sati & Faraz Anees
 tags: SportsLaw Sportsbetting Sportslawjurisprudence Sportsbroadcasting 
 header:
- teaser: posts/SeminarSportslaw/1.jpg
+ teaser: posts/Seminarsportslaw/1.jpg
 ---
 
 <b>Introduction to Sports Law</b><br>
@@ -21,7 +21,7 @@ American philosopher Jan Boxill in her book 1 argues that Sport serves a moral f
 Advocate Suhrith Parthasarathy writing in The Hindu 2 argued that“in India where cricket plays a pervasive role, the sport cricket would have to necessarily be seen as a primary cultural good, borrowing from John Rawls he further says, which is critical to the fulfilment of a person’s conception of a good life. In that sense, then access to cricket has to be considered as an end in and of itself, and as not in any manner sub‑servient to some other veiled purpose, especially entertainment or business”.
 
 <figure class="half">
-<a href="/images/posts/SeminarSportslaw/1.jpg"><img src="/images/posts/SeminarSportslaw/1.jpg"></a>
+<a href="/images/posts/Seminarsportslaw/1.jpg"><img src="/images/posts/Seminarsportslaw/1.jpg"></a>
 <figcaption>Source: iPleaders Blog </figcaption>
 </figure>
 
