@@ -81,7 +81,7 @@ Sources:
 
 
 <b>SPORTS BETTING</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            -BY PRANAV PATHAK
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            -BY Pranav Pathak
 
 Now, we will be venturing into the gambling aspects related to Sports as an industry but first, I would like to give an overview as to what constitutes betting and how it all started.
 
