@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Seminar sports law"
+title:  "Seminar on sports law"
 comments: true
 share: true
 date:   2017-02-13 00:01:30 +0530
